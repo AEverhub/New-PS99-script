@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AEverhub/Spt/main/main%20script", true))()

@@ -3,7 +3,7 @@
 
 🚫Commercial use
 ✅Academic research
-Installation:Direct copying mainsp.lua arrive ps99 use delta or krnl Plug-in injector
+Installation:Direct copying maincode.lua arrive ps99 use delta or krnl Plug-in injector
 
 If there is an infringement, please notify us
 
